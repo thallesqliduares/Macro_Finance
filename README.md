@@ -3,4 +3,4 @@ A miscellaneous of computational simulations of machine learning models of macro
 
 The exercises were extracted from following books:
 
-Machine Learning in Finance: From Theory to Practice - Dixon et al. 2021
+Machine Learning in Finance: From Theory to Practice - Dixon et al. 2021 (Springer)
